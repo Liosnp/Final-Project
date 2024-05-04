@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-04T23:38:41.487Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="q3GOGMEqVQUQ8F4ZLPQc" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-04T23:58:05.878Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="qtE2jF4oWTxLVYZbIFjg" version="24.3.1" type="github" pages="2">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="860" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,6 +75,71 @@
         </mxCell>
         <mxCell id="h_r3c42y1QzsqVyb1VVL-22" value="确定最优装卸方案" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="37wgLOVjVcjWW62R0QdL" name="第 2 页">
+    <mxGraphModel dx="818" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Li0r42ZjdRXw6AyGq4FA-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Li0r42ZjdRXw6AyGq4FA-1" target="Li0r42ZjdRXw6AyGq4FA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Li0r42ZjdRXw6AyGq4FA-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Li0r42ZjdRXw6AyGq4FA-1" target="Li0r42ZjdRXw6AyGq4FA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Li0r42ZjdRXw6AyGq4FA-1" value="优化模型" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Li0r42ZjdRXw6AyGq4FA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Li0r42ZjdRXw6AyGq4FA-2" target="Li0r42ZjdRXw6AyGq4FA-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Li0r42ZjdRXw6AyGq4FA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Li0r42ZjdRXw6AyGq4FA-2" target="Li0r42ZjdRXw6AyGq4FA-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Li0r42ZjdRXw6AyGq4FA-2" value="目标函数" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Li0r42ZjdRXw6AyGq4FA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Li0r42ZjdRXw6AyGq4FA-3" target="Li0r42ZjdRXw6AyGq4FA-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Li0r42ZjdRXw6AyGq4FA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Li0r42ZjdRXw6AyGq4FA-3" target="Li0r42ZjdRXw6AyGq4FA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Li0r42ZjdRXw6AyGq4FA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Li0r42ZjdRXw6AyGq4FA-3" target="Li0r42ZjdRXw6AyGq4FA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Li0r42ZjdRXw6AyGq4FA-3" value="约束条件" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Li0r42ZjdRXw6AyGq4FA-4" value="安全约束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Li0r42ZjdRXw6AyGq4FA-6" value="时间窗约束时间" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Li0r42ZjdRXw6AyGq4FA-7" value="卡车工作时间约束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Li0r42ZjdRXw6AyGq4FA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Li0r42ZjdRXw6AyGq4FA-9" target="Li0r42ZjdRXw6AyGq4FA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Li0r42ZjdRXw6AyGq4FA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Li0r42ZjdRXw6AyGq4FA-9" target="Li0r42ZjdRXw6AyGq4FA-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Li0r42ZjdRXw6AyGq4FA-9" value="资源约束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Li0r42ZjdRXw6AyGq4FA-12" value="倒装台容量约束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Li0r42ZjdRXw6AyGq4FA-19" value="卡车工作费用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Li0r42ZjdRXw6AyGq4FA-20" value="列车停滞费用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="310" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
