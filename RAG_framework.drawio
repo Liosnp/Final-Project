@@ -4481,7 +4481,19 @@
           <mxGeometry x="780" y="220" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="VKrmPLniDdrGl4eK8UUa-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 51px;&quot;&gt;&lt;b&gt;we want you！！！&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="60" width="450" height="70" as="geometry" />
+          <mxGeometry x="510" y="50" width="450" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VKrmPLniDdrGl4eK8UUa-14" value="" style="whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VKrmPLniDdrGl4eK8UUa-15" value="" style="whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VKrmPLniDdrGl4eK8UUa-16" value="" style="whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VKrmPLniDdrGl4eK8UUa-17" value="" style="whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
